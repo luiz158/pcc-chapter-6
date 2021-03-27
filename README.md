@@ -123,4 +123,4 @@ improving the formatting of the output.
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
-<a href='../chapter_05/README.md'>&#10094; Prev</a>| &nbsp; | &nbsp; | &nbsp;<a href='../chapter_07/README.md'>Next &#10095;</a>
+<a href='https://github.com/mavaddat-javid-education/pcc/tree/master/chapter_05/README.md'>&#10094; Prev</a>| &nbsp; | &nbsp; | &nbsp;<a href='https://github.com/mavaddat-javid-education/pcc/tree/master/chapter_07/README.md'>Next &#10095;</a>
